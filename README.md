@@ -4,4 +4,4 @@ This is a really awesome website made by me
 
 Edit on Example branch.
 
-Updated locally, and remotely
+Updates made on master on Github before rebase
